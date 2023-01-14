@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dreamertheat
 - 👀 I’m interested in Flutter development
-- 🌱 I’m currently learning dart and php
+- 🌱 I’m currently learning dart and nodejs
 - 💞️ I’m looking to collaborate on stackoverflow
 - 📫 How to reach me, shhh
 
